@@ -1,13 +1,30 @@
-Information Technology Department School of Accountancy, Management, Computing, and Information Studies (SAMCIS)
+Information Technology Department
+School of Accountancy, Management, Computing, and Information	
+Studies (SAMCIS)
 
-Saint Louis University Baguio City
+Saint Louis University
+Baguio City
 
-In Partial Fulfillment of the Requirements for IT 311 - 9473 Application Development
 
-Collaborative Tools Finals Project Repoistory for Demonstration
+In Partial Fulfillment of the Requirements for
+IT 311 - 9473
+Application Development
 
-Submitted to: Mr. Roderick Makil
+# Collaborative Tools
+Finals Project Repoistory for Activity History
 
-Submitted by: ANGWAY, Khenler ANGWAY, Timothy Jue AZURIN, John Arvin Dale CLEMENTE, Lise HUFALAR, Jekka Menna GANGAN, William Sylvester TORIANO, Joefrey
+# Submitted to:
+Mr. Roderick Makil
 
+# Submitted by:
+  1. ANGWAY, Khenler
+  2. ANGWAY, Timothy Jue
+  3. AZURIN, John Arvin Dale
+  4. CLEMENTE, Lise
+  5. HUFALAR, Jekka Menna
+  6. GANGAN, William Sylvester
+  7. TORIANO, Joefrey
+
+# Submitted on:
 December 2023
+
